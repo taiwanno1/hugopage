@@ -1,0 +1,26 @@
+/**************************
+GENERAL
+**************************/
+
+
+body {
+	font-family: 'play', sans-serif;
+}
+
+
+
+/**************************
+HEADING
+**************************/
+
+
+#logo {
+	text-align: center
+}
+
+h1 {
+	font-family: 'play', sans-serif;
+	font-size: 2em;
+	font-weight: inherit;
+	
+}
